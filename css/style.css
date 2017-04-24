@@ -1,0 +1,25 @@
+.header{
+
+}
+
+#nav{
+	background-color: #0008B;
+}
+body{
+	font-family:verdana;sansserif;
+	
+}
+h1{background-color:#0008B;
+	margin-right: 20px; 
+}
+
+h2{background-color:#0008B;
+	margin-right: 20px;
+}
+
+.footer{
+	clear:both;
+	background-color:#0008B;
+	padding: 10px;
+
+}
